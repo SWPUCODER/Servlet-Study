@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cookie/Cookie.iml" filepath="$PROJECT_DIR$/Cookie/Cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServletRequest/HttpServletRequest.iml" filepath="$PROJECT_DIR$/HttpServletRequest/HttpServletRequest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpSession/HttpSession.iml" filepath="$PROJECT_DIR$/HttpSession/HttpSession.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RequestDispatcher/RequestDispatcher.iml" filepath="$PROJECT_DIR$/RequestDispatcher/RequestDispatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SendRedirect/SendRedirect.iml" filepath="$PROJECT_DIR$/SendRedirect/SendRedirect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServletContext/ServletContext.iml" filepath="$PROJECT_DIR$/ServletContext/ServletContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServletContextAttributeListener/ServletContextAttributeListener.iml" filepath="$PROJECT_DIR$/ServletContextAttributeListener/ServletContextAttributeListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServletContextListener/ServletContextListener.iml" filepath="$PROJECT_DIR$/ServletContextListener/ServletContextListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServletRequest/ServletRequest.iml" filepath="$PROJECT_DIR$/ServletRequest/ServletRequest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServletResponse/ServletResponse.iml" filepath="$PROJECT_DIR$/ServletResponse/ServletResponse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServletTest/ServletTest.iml" filepath="$PROJECT_DIR$/ServletTest/ServletTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet接口实现类/Servlet接口实现类.iml" filepath="$PROJECT_DIR$/Servlet接口实现类/Servlet接口实现类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet生命周期/Servlet生命周期.iml" filepath="$PROJECT_DIR$/Servlet生命周期/Servlet生命周期.iml" />
+      <module fileurl="file://$PROJECT_DIR$/在线考试管理系统/在线考试管理系统.iml" filepath="$PROJECT_DIR$/在线考试管理系统/在线考试管理系统.iml" />
+    </modules>
+  </component>
+</project>
